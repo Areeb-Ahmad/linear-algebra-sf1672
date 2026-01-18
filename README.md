@@ -1,8 +1,8 @@
 # Linear Algebra Compendium (SF1672)
 
-[cite_start]**Author:** Areeb Ahmad [cite: 2]  
-[cite_start]**Course:** SF1672 Linear Algebra (KTH) [cite: 1]  
-[cite_start]**Date:** November 2024 [cite: 3]
+**Author:** Areeb Ahmad [cite: 2]  
+**Course:** SF1672 Linear Algebra (KTH) [cite: 1]  
+**Date:** November 2024 [cite: 3]
 
 ## 📖 About This Project
 
